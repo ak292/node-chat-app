@@ -7,5 +7,5 @@ Must have NodeJS installed
 # Usage
 Step 1) Run npm install  
 Step 2) CD into src  
-Step 3) node index.js  
+Step 3) run node index.js  
 Step 4) Navigate to localhost:3000 in your browser  
