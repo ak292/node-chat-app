@@ -5,7 +5,7 @@ A real time chat web application using NodeJS/Socket.io
 Must have NodeJS installed
 
 # Usage
-Step 1) Run npm install  
-Step 2) CD into src  
-Step 3) Run node index.js  
-Step 4) Navigate to localhost:3000 in your browser  
+1) Run npm install  
+2) Change into src directory  
+3) Run node index.js  
+4) Navigate to localhost:3000 in your browser  
